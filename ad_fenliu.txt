@@ -921,9 +921,9 @@ host-keyword, api-access.pangolin-sdk-toutiao.com, reject
 # >>>>>>>>>>>>>>> ✅ Q ✅ <<<<<<<<<<<<<<
 # > QQ音乐
 # host, adstats.tencentmusic.com, REJECT
-# host, ad.tencentmusic.com, REJECT
-# host, adcdn.tencentmusic.com, REJECT
-# host, adcdn6.tencentmusic.com, REJECT
+host, ad.tencentmusic.com, REJECT
+host, adcdn.tencentmusic.com, REJECT
+host, adcdn6.tencentmusic.com, REJECT
 # host, adexpo.tencentmusic.com, REJECT
 # host, adclick.tencentmusic.com, REJECT
 # host, otheve.beacon.qq.com, REJECT
@@ -932,8 +932,8 @@ host-keyword, api-access.pangolin-sdk-toutiao.com, reject
 # host, oth.str.mdt.qq.com, REJECT
 # host, h.trace.qq.com, REJECT
 # host, sdk.e.qq.com, REJECT
-# host, p.l.qq.com, REJECT
-# host, us.l.qq.com, REJECT
+host, p.l.qq.com, REJECT
+host, us.l.qq.com, REJECT
 # host, tangram.e.qq.com, REJECT
 # host, tmeadbak.y.qq.com, REJECT
 # host-suffix, imtmp.net, REJECT
